@@ -1,6 +1,7 @@
-# Investors-segmentation
+# 📊 Investor Segmentation Project
 
-# 📊 Investors Segmentation
+> ⚠️ **Note:** This is an older project from my past experience, uploaded here as a sample for my portfolio. Some files are omitted due to size restrictions. Feel free to reach out for full context!
+
 
 This project clusters investors based on their trading behavior, asset diversity, and risk profiles to identify actionable customer segments for financial product targeting.
 
