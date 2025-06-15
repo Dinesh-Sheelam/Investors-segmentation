@@ -8,7 +8,7 @@ This project clusters investors based on their trading behavior, asset diversity
 
 - `customer_segmentation.ipynb` — Jupyter Notebook with full data cleaning, feature engineering, and clustering.
 - `customer_segments.csv` — Final output with each customer's segment label and key features.
-- `app.py` — (Optional) Simple script for visualizing the clusters interactively.
+- `app.py` — (Optional) Simple script for visualizing the clusters interactively(Built on Streamlit).
 - **Note:** Raw source data is large and not uploaded; available upon request.
 
 ## 🔑 Tech Used
